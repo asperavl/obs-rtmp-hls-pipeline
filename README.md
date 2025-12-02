@@ -4,7 +4,7 @@ This project implements a functional live streaming pipeline using OBS Studio fo
 
 ---
 
-## Features
+## 🚀 Features
 
 - RTMP ingest via OBS  
 - HLS output (.ts segments + .m3u8 playlist)  
@@ -13,7 +13,7 @@ This project implements a functional live streaming pipeline using OBS Studio fo
 
 ---
 
-## Architecture Overview
+## 📝 Architecture Overview
 
     +-------------------+       RTMP        +-----------------------+       HLS        +---------------------+
     |       OBS         |  ----------→      |     NGINX RTMP        |  ----------→     |     Web Browser     |
@@ -29,7 +29,7 @@ This project implements a functional live streaming pipeline using OBS Studio fo
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
     /
     ├─ nginx/
@@ -49,7 +49,7 @@ This project implements a functional live streaming pipeline using OBS Studio fo
 
 ---
 
-## Setup Instructions
+## 📦 Setup Instructions
 
 ### 1. Install OBS Studio  
 https://obsproject.com/
@@ -145,7 +145,7 @@ Go to:
 
 ---
 
-## Screenshots
+## 🖼 Screenshots
 
 OBS Streaming  
 ![OBS](./screenshots/OBS-streaming-panel.png)
