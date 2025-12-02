@@ -148,13 +148,13 @@ Go to:
 ## Screenshots
 
 OBS Streaming  
-![OBS](./screenshots/OBS-streaming-panel)
+![OBS](./screenshots/OBS-streaming-panel.png)
 
 HLS Segment Folder  
-![HLS](./screenshots/HLS-folder-with-segments)
+![HLS](./screenshots/HLS-folder-with-segments.png)
 
 Web Player  
-![Player](./screenshots/web-player-showing-live-video)
+![Player](./screenshots/web-player-showing-live-video.png)
 
 ---
 
